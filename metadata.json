@@ -1,0 +1,7 @@
+{
+  "name": "MindfulBot - AI Mental Health Companion",
+  "description": "A compassionate AI chatbot providing emotional support, grounding techniques, and positive coping strategies in a calming environment.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
